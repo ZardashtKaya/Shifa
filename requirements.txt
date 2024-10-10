@@ -2,4 +2,4 @@ git+https://github.com/huggingface/transformers
 torch
 torchaudio
 pytube
-gradio==3.50
+gradio
